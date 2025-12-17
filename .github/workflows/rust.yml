@@ -10,7 +10,7 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-  BIN_NAME: your_project_name # <--- ここに自分の実行ファイル名を記入！
+  BIN_NAME: quv # <--- ここに自分の実行ファイル名を記入！
 
 jobs:
   build:
